@@ -1,5 +1,5 @@
 export const products = [
-  {
+ {
       "id": 18273,
       "name": "PS5 + Games (100+) + 1 Controller",
       "image": "https://images.sharepal.in/categories/gaming-consoles/ps5/ps5-with-100-games-with-1-controller/ps5-with-100-games-with-1-controller-on-rent-sharepal-1.webp",
@@ -45,7 +45,7 @@ export const products = [
       "image": "https://images.sharepal.in/categories/gaming-consoles/ps5/ps5-with-1-controller/ps5-console-with-1-controller-on-rent-sharepal-1.webp",
       "rating": 4.8,
       "booked_count": 236,
-      "tag": "",
+      "tag": "New",
       "per_day_rent": 160,
       "out_of_stock": false
     },
@@ -55,7 +55,7 @@ export const products = [
       "image": "https://images.sharepal.in/categories/gaming-consoles/ps5/ps5-with-ea-play-combo-with-2-controllers/ps5-ea-play-combo-with-2-controllers-on-rent-sharepal-1.webp",
       "rating": 4.8,
       "booked_count": 167,
-      "tag": "",
+      "tag": "New",
       "per_day_rent": 260,
       "out_of_stock": true
     },
@@ -75,7 +75,7 @@ export const products = [
       "image": "https://images.sharepal.in/categories/gaming-consoles/ps5/ps5-with-2%20controllers/ps5-console-with-2-controllers-on-rent-sharepal-1.webp",
       "rating": 4.2,
       "booked_count": 210,
-      "tag": "",
+      "tag": "New",
       "per_day_rent": 200,
       "out_of_stock": false
     },
@@ -85,7 +85,7 @@ export const products = [
       "image": "https://images.sharepal.in/categories/gaming-consoles/ps5/ps5-with-god-of-war-ragnarok/ps5-with-god-of-war-ragnarok-with-100-games-with-1-controller-on-rent-sharepal-1.webp",
       "rating": 4.6,
       "booked_count": 164,
-      "tag": "",
+      "tag": "Trending",
       "per_day_rent": 200,
       "out_of_stock": false
     },
@@ -95,7 +95,7 @@ export const products = [
       "image": "https://images.sharepal.in/categories/gaming-consoles/ps5/ps5-with-ea-play-combo-with-1-controller/ps5-with-controller-with-ea-play-combo-on-rent-sharepal-1.webp",
       "rating": 4.5,
       "booked_count": 211,
-      "tag": "",
+      "tag": "New",
       "per_day_rent": 180,
       "out_of_stock": false
     },
@@ -105,7 +105,7 @@ export const products = [
       "image": "https://images.sharepal.in/categories/gaming-consoles/ps5/ps5-with-uncharted/ps5-with-uncharted-legacy-of-thieves-with-100-games-with-1-controller-on-rent-sharepal-1.webp",
       "rating": 4.6,
       "booked_count": 171,
-      "tag": "",
+      "tag": "Trending",
       "per_day_rent": 200,
       "out_of_stock": false
     },
@@ -115,7 +115,7 @@ export const products = [
       "image": "https://images.sharepal.in/categories/gaming-consoles/ps5/ps5-with-cricket-24/ps5-with-cricket-24-with-100-games-with-2-controllerS-on-rent-sharepal-1.webp",
       "rating": 4.8,
       "booked_count": 186,
-      "tag": "",
+      "tag": "New",
       "per_day_rent": 200,
       "out_of_stock": false
     },
@@ -135,7 +135,7 @@ export const products = [
       "image": "https://images.sharepal.in/categories/gaming-consoles/ps5/ps5-with-ghost-of-tsushima/ps5-with-ghost-of-tsushima-with-100-games-with-1-controller-on-rent-sharepal-1.webp",
       "rating": 4.6,
       "booked_count": 140,
-      "tag": "",
+      "tag": "Trending",
       "per_day_rent": 200,
       "out_of_stock": false
     },
@@ -145,7 +145,7 @@ export const products = [
       "image": "https://images.sharepal.in/categories/gaming-consoles/ps5/ps5-mega-racing-combo/ps5-with-controller-with-ps-plus-deluxe-subscription-with-ea-play-with-wheel-combo-on-rent-sharepal-1%20(1).webp",
       "rating": 4.8,
       "booked_count": 139,
-      "tag": "",
+      "tag": "New",
       "per_day_rent": 310,
       "out_of_stock": true
     },
@@ -165,7 +165,7 @@ export const products = [
       "image": "https://images.sharepal.in/categories/gaming-consoles/ps5/ps5-with-fc24/ps5-with-fc24-with-100-games-with-2-controllerS-on-rent-sharepal-1.webp",
       "rating": 4.8,
       "booked_count": 165,
-      "tag": "",
+      "tag": "New",
       "per_day_rent": 200,
       "out_of_stock": true
     },
@@ -185,7 +185,7 @@ export const products = [
       "image": "https://images.sharepal.in/categories/gaming-consoles/ps5/ps5-with-spiderman-miles-morales/ps5-with-spiderman-miles-morales-with-100-games-with-1-controller-on-rent-sharepal-1.webp",
       "rating": 4.6,
       "booked_count": 123,
-      "tag": "",
+      "tag": "Trending",
       "per_day_rent": 200,
       "out_of_stock": false
     },

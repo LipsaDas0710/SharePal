@@ -1,6 +1,6 @@
 export default function GamingBanner() {
   return (
-    <section className="gaming-banner">
+    <section className="gaming-banner" >
       <img className="banner-art banner-art-left" src="/images/gaming-left.webp" alt="" />
       <div className="banner-content">
         <h2>Gaming Consoles</h2>

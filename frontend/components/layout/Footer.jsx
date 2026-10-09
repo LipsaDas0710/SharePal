@@ -12,7 +12,7 @@ export default function Footer() {
         <h3>Renting from SharePal in Bangalore</h3>
         <p>Discover the convenience of renting from SharePal, your trusted partner in Bangalore for all your rental needs. Whether you're exploring the vibrant streets of Karnataka, setting up a shooting, or planning a trip from the comforts of Whitefield, SharePal has you covered. We offer a range of products, including cameras, action cameras, riding gear, gaming consoles, projectors, speakers, trekking gear, and more.</p>
         <h3>Categories on Rent</h3>
-        <p><strong>Action Cameras on Rent</strong><br/>Capture your adventures in stunning detail with our range of action cameras. Choose from top brands for sports, travel and everyday recording.</p>
+        <p><strong>Action Cameras on Rent</strong><br/>Capture your adventures in stunning detail with our range of action cameras. Choose from top brands like GoPro, Insta360, and DJI, perfect for everything from extreme sports to casual vlogging. Whether you need high-quality video for your next trek or a 360-degree camera to capture every angle, we've got you covered.</p>
         <a href="#top">Read More⌄</a>
       </div>
       <a href="/" className="footer-logo">Share<span>Pal</span></a>

@@ -5,14 +5,13 @@ import { Smile, Gamepad2, Camera, Monitor, Glasses, Joystick } from "lucide-reac
 
 const categories = [
   { label: "All", icon: Smile },
-  { label: "GTA VI", image: "/images/categories/gta.png" },
-  { label: "PS5 Console", image: "/images/categories/ps5.png" },
-  { label: "Xbox Console", image: "/images/categories/xbox.png" },
-  { label: "Racing Wheel", icon: Joystick },
-  { label: "Big Screen Gaming", icon: Monitor },
-  { label: "PS5 Games", icon: Gamepad2 },
-  { label: "Cameras", icon: Camera },
-  { label: "VR", icon: Glasses },
+  { label: "Handheld", image:"/images/NINTENDO_SWITCH_01_Hero.webp", },
+  { label: "GTA VI", image: "/images/gta-vi.webp" },
+  { label: "PS5 Console", image: "/images/ps5-console-on-rent-sharepal.webp", },
+  { label: "Xbox Console", image: "/images/xbox-console-on-rent-sharepal.webp", },
+  { label: "Racing Wheel", image: "/images/logitech-g29-racing-wheel-on-rent-sharepal-1.webp", },
+  { label: "Big Screen Gaming", image: "/images/ps5-with-2-controllers-with-projector-on-rent.webp" },
+  { label: "VR", image: "/images/vr-on-rent-sharepal.webp" },
 ];
 
 export default function Sidebar() {
